@@ -1,0 +1,4 @@
+Please append your name and NETID here.
+CAUTION: DO NOT DELETE OTHERS' NAMES. IF A CONFLICT EXISTS, RESOLVE IT WITHOUT REMOVING ANYONE ELSE.
+For example: 
+- Xavier (xl1029)
